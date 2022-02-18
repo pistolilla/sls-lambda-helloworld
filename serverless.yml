@@ -1,4 +1,4 @@
-service: aws-python-simple-http-endpoint
+service: sls-lamda-helloworld
 frameworkVersion: '3'
 
 provider:
