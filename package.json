@@ -3,5 +3,8 @@
     "version": "1.0.0",
     "description": "Example demonstrates how to setup a simple GET and POST endpoint with python",
     "author": "Leopoldo",
-    "license": "MIT"
+    "license": "MIT",
+    "dependencies": {
+        "sls": "^0.1.0"
+    }
 }
